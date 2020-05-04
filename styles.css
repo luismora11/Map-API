@@ -5,6 +5,18 @@ html, body{
   
 }
 
+
+h1{
+    margin: 1em auto;
+    text-align: center;
+    color: red;
+    border: solid red 2px;
+    padding: 10px 2px;
+    width: 6em;
+}
+
+
+
 #map{
     margin: auto;
    width: 90%;
